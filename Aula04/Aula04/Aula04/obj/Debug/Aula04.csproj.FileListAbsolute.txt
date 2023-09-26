@@ -1,0 +1,11 @@
+C:\Users\Alunos\Desktop\Aula04\Aula04\Aula04\Aula04\obj\Debug\Aula04.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\Aula04\Aula04\Aula04\Aula04\obj\Debug\Aula04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alunos\Desktop\Aula04\Aula04\Aula04\Aula04\obj\Debug\Aula04.Form1.resources
+C:\Users\Alunos\Desktop\Aula04\Aula04\Aula04\Aula04\obj\Debug\Aula04.Properties.Resources.resources
+C:\Users\Alunos\Desktop\Aula04\Aula04\Aula04\Aula04\obj\Debug\Aula04.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\Aula04\Aula04\Aula04\Aula04\obj\Debug\Aula04.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Aula04\Aula04\Aula04\Aula04\bin\Debug\Aula04.exe.config
+C:\Users\Alunos\Desktop\Aula04\Aula04\Aula04\Aula04\bin\Debug\Aula04.exe
+C:\Users\Alunos\Desktop\Aula04\Aula04\Aula04\Aula04\bin\Debug\Aula04.pdb
+C:\Users\Alunos\Desktop\Aula04\Aula04\Aula04\Aula04\obj\Debug\Aula04.exe
+C:\Users\Alunos\Desktop\Aula04\Aula04\Aula04\Aula04\obj\Debug\Aula04.pdb
